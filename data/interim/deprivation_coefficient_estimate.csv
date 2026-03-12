@@ -1,0 +1,2 @@
+coefficient_type,gamma_estimate,slope,intercept,rows_used,mean_patient_volume_2021,reason_not_true
+demo,0.03026720760903748,0.03026720760903748,0.013516871241862547,20123,0.013516871241862545,Patient data needed default assumptions (missing patient_count/year).
