@@ -7,3 +7,9 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# Local-only (do not sync to GitHub)
+WHAT_IT_DID.md
+QUESTIONS_FOR_DATA_SCIENTIST.md
+outputs/qa/
+notebooks/
